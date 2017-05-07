@@ -1,0 +1,1 @@
+cat /emotion.sql | mysql --defaults-extra-file=/config.cnf
